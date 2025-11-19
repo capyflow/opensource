@@ -1,3 +1,3 @@
-module github.com/dzjyyds666/opensource/common
+module github.com/capyflow/opensource/common
 
 go 1.23.3

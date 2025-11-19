@@ -1,4 +1,4 @@
-module github.com/dzjyyds666/opensource/httpx
+module github.com/capyflow/opensource/httpx
 
 go 1.23.3
 
